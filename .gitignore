@@ -1,4 +1,7 @@
 node_modules
 package-lock.json
 package.json
+<<<<<<< HEAD
 output.css
+=======
+>>>>>>> 78696c99f2ff2fc0e65f8f644141ee1f91516aa8
