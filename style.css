@@ -1,1 +1,12 @@
 @import "tailwindcss";
+
+*{
+    box-sizing: border-box;
+}
+
+.calculator{
+    position:relative;
+    background: linear-gradient(145deg ,rgba(255,255,255,0.12),rgba(255,255,255,0.04));
+    border: 1px solid rgba(255,255,255,0.15);
+    box-shadow:0 30px 80px rgba(0,0,0,0.6),0 0 50px rgba(168,85,247,0.4);
+}
